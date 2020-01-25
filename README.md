@@ -24,6 +24,8 @@ Default: `C:\temp\proj\libs\mssql-jdbc-7.4.1.jre8.jar`
 
 >TOTAL_AMOUNT_OF_UPDATED_ROWS - number of rows to update in test
 
+>TOTAL_AMOUNT_OF_DELETED_ROWS - number of rows to insert and delete in test
+
 
 8. Run Test to fullfill database via **Thread Group - Initial** tree element
 
