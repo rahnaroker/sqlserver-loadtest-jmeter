@@ -19,8 +19,11 @@ Default: `C:\temp\proj\libs\mssql-jdbc-7.4.1.jre8.jar`
 7. Update variables in **User Defined Variables** tree element:
 
 >TOTAL_AMOUNT_OF_ROWS - number of rows to fullfill database before test
+
 >TOTAL_AMOUNT_OF_INSERTED_ROWS - number of rows to insert in test
+
 >TOTAL_AMOUNT_OF_UPDATED_ROWS - number of rows to update in test
+
 
 8. Run Test to fullfill database via **Thread Group - Initial** tree element
 
